@@ -14,5 +14,10 @@ fasdfasd
 asdf
 asdf
 
-
+git status
 git add -p
+y
+git status
+git commit
+git status
+git push origin master
